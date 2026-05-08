@@ -1,0 +1,125 @@
+{
+  "next_id": 14,
+  "tasks": [
+    {
+      "task_id": 2,
+      "title": "Vẽ sơ đồ UML class diagram",
+      "description": "Dùng draw.io vẽ sơ đồ cho 3 lớp: Task, TaskManager, TodoCLI",
+      "deadline": "2026-05-13",
+      "priority": "Cao",
+      "status": "Chờ xử lý",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 3,
+      "title": "Viết README trên GitHub",
+      "description": "Mô tả dự án, hướng dẫn cài đặt, link UML, bảng thành viên",
+      "deadline": "2026-05-14",
+      "priority": "Trung bình",
+      "status": "Chờ xử lý",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 4,
+      "title": "Ôn tập môn Cơ sở dữ liệu",
+      "description": "Ôn lại SQL cơ bản, JOIN, GROUP BY trước khi thi",
+      "deadline": "2026-05-11",
+      "priority": "Trung bình",
+      "status": "Chờ xử lý",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 5,
+      "title": "Đọc tài liệu Flask",
+      "description": "Đọc phần Routing, Templates, REST API trên docs.flask.palletsprojects.com",
+      "deadline": "2026-05-18",
+      "priority": "Thấp",
+      "status": "Chờ xử lý",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 6,
+      "title": "Code chức năng thêm/sửa/xóa task",
+      "description": "Hoàn thiện CRUD trong lớp TaskManager, test đầy đủ các trường hợp",
+      "deadline": "2026-05-10",
+      "priority": "Cao",
+      "status": "Đang thực hiện",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 7,
+      "title": "Thiết kế giao diện web Flask",
+      "description": "Xây dựng index.html với HTML/CSS/JS, kết nối API backend",
+      "deadline": "2026-05-12",
+      "priority": "Cao",
+      "status": "Đang thực hiện",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 8,
+      "title": "Push code lên GitHub",
+      "description": "Tạo repo, commit ít nhất 3 lần mỗi thành viên, viết commit message rõ ràng",
+      "deadline": "2026-05-16",
+      "priority": "Trung bình",
+      "status": "Đang thực hiện",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 9,
+      "title": "Khởi tạo project Python",
+      "description": "Tạo cấu trúc thư mục, tạo file todo_app.py, app.py",
+      "deadline": "2026-05-05",
+      "priority": "Trung bình",
+      "status": "Hoàn thành",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 10,
+      "title": "Định nghĩa class Task và Enum",
+      "description": "Tạo class Task, Priority, Status với đầy đủ thuộc tính",
+      "deadline": "2026-05-06",
+      "priority": "Cao",
+      "status": "Hoàn thành",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 11,
+      "title": "Cài đặt môi trường Flask",
+      "description": "pip install flask, kiểm tra chạy hello world thành công",
+      "deadline": "2026-05-03",
+      "priority": "Thấp",
+      "status": "Hoàn thành",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 12,
+      "title": "Nộp bản phác thảo thiết kế",
+      "description": "Nộp sơ đồ class và mô tả chức năng cho giáo viên duyệt",
+      "deadline": "2026-05-04",
+      "priority": "Cao",
+      "status": "Quá hạn",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    },
+    {
+      "task_id": 13,
+      "title": "Họp nhóm phân công công việc",
+      "description": "Phân chia từng chức năng cho từng thành viên, thống nhất deadline",
+      "deadline": "2026-05-02",
+      "priority": "Trung bình",
+      "status": "Quá hạn",
+      "created_at": "2026-05-08 18:05:49",
+      "updated_at": "2026-05-08 18:05:49"
+    }
+  ]
+}
