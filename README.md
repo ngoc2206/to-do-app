@@ -1,2 +1,3 @@
-# to-do-app
-Hệ thống quản lý công việc - To-Do App
+# TO-DO APP
+
+Python Flask To-Do App
