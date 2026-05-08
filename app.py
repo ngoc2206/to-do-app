@@ -108,3 +108,4 @@ def stats():
 if __name__ == "__main__":
     print("\nTo-Do App Web đang chạy tại: http://localhost:5000\n")
     app.run(debug=True, port=5000)
+    # Flask backend completed
