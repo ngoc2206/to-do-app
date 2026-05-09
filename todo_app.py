@@ -1,7 +1,5 @@
 """
 To-Do App - Hệ thống quản lý công việc
-Author: Nhóm sinh viên
-Version: 1.0.0
 """
 
 import json

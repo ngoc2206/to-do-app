@@ -1,6 +1,5 @@
 """
 To-Do App - Flask Web Version
-Chạy: python app.py
 Mở trình duyệt: http://localhost:5000
 """
 
