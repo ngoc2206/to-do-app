@@ -178,10 +178,11 @@ Cho phép người dùng:
 
 Cho phép cập nhật:
 
-- Nội dung task
-- Trạng thái
+- Nhập tiêu đề
+- Mô tả công việc
 - Deadline
-- Priority
+- Mức ưu tiên
+- Trạng thái
 
 ![Edit Task](assets/edit-task.png)
 
